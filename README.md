@@ -1,3 +1,20 @@
+# Laravel API REST Skeleton | Built on Laravel Framework - 9.0.2 (LTS, stable version)
+
+This repository is for basic skeleton installation of the Laravel framework, its packages and other's vendors packages. It means that you can use it as a basis for your custom applications. The target is to reduce the time for developers while installing packages to build required stack for the project.
+
+## Installation processes
+
+```
+git clone https://github.com/avangardistpro/Laravel-API-REST-Skeleton.git
+php artisan migrate
+php artisan passport:keys
+```
+
+## Installed packages
+
+- [Laravel/Passport](https://github.com/laravel/passport)
+
+
 ## License
 
 The Laravel-API-REST-Skeleton is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
