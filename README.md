@@ -4,6 +4,7 @@
 
 This repository is for basic skeleton installation of the Laravel framework, its packages and other's vendors packages. It means that you can use it as a basis for your custom applications. The target is to reduce the time for developers while installing packages to build required stack for the project.
 
+** Note! If you are new to this technology stack than you will need to learn more from documentation on specific packages.
 
 ## Installed packages
 
@@ -25,7 +26,11 @@ This repository is for basic skeleton installation of the Laravel framework, its
 
 Cache, queues and sessions work using Redis server.
 
-## Installation process
+## Requirements
+
+- PHP version ^8.0
+
+## Installation process (Linux)
 
 ```
 git clone https://github.com/avangardistpro/Laravel-API-REST-Skeleton.git <project_name>
