@@ -1,4 +1,6 @@
-# Laravel API REST Skeleton | Built on Laravel Framework - 9.0.2 (LTS, stable version)
+# Laravel API REST Skeleton
+
+### Built on Laravel Framework - 9.0.2 (LTS, stable version)
 
 This repository is for basic skeleton installation of the Laravel framework, its packages and other's vendors packages. It means that you can use it as a basis for your custom applications. The target is to reduce the time for developers while installing packages to build required stack for the project.
 
@@ -17,11 +19,17 @@ This repository is for basic skeleton installation of the Laravel framework, its
 
 - [L5 Swagger](https://github.com/darkaonline/l5-swagger) - [wiki](https://github.com/DarkaOnLine/L5-Swagger/wiki)
 
+## Stack Tips
+
+Cache, queue and session work using Redis server.
+
 ## Installation process
 
 ```
 git clone https://github.com/avangardistpro/Laravel-API-REST-Skeleton.git <project_name>
 cd <project_name>
+cp .env.example .env
+
 php artisan key:generate
 php artisan migrate
 php artisan passport:keys
