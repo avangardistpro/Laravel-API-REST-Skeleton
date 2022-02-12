@@ -1,4 +1,4 @@
-# Laravel API REST Skeleton
+# Laravel API REST Skeleton Stack
 
 ### Built on Laravel Framework - 9.0.2 (LTS, stable version)
 
@@ -18,10 +18,11 @@ This repository is for basic skeleton installation of the Laravel framework, its
 ### Vendor packages
 
 - [L5 Swagger](https://github.com/darkaonline/l5-swagger) - [wiki](https://github.com/DarkaOnLine/L5-Swagger/wiki)
+- [Predis](https://github.com/predis/predis) - [wiki](https://github.com/predis/predis/wiki)
 
 ## Stack Tips
 
-Cache, queue and session work using Redis server.
+Cache, queues and sessions work using Redis server.
 
 ## Installation process
 
@@ -35,7 +36,7 @@ php artisan migrate
 php artisan passport:keys
 php artisan serve
 ```
-Now, your new project available on [http://127.0.0.1:8000](http://127.0.0.1:8000).
+After that, your new project is available on [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
