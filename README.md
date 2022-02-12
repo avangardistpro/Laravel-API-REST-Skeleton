@@ -7,7 +7,7 @@ This repository is for basic skeleton installation of the Laravel framework, its
 
 - [Laravel/Passport](https://github.com/laravel/passport)
 - [Laravel/Breeze](https://github.com/laravel/breeze)
-
+- [Laravel/Telescope](https://github.com/laravel/telescope)
 
 
 ## Installation process
