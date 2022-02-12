@@ -2,13 +2,17 @@
 
 This repository is for basic skeleton installation of the Laravel framework, its packages and other's vendors packages. It means that you can use it as a basis for your custom applications. The target is to reduce the time for developers while installing packages to build required stack for the project.
 
-## Installation processes
+## Installation process
 
 ```
-git clone https://github.com/avangardistpro/Laravel-API-REST-Skeleton.git
+git clone https://github.com/avangardistpro/Laravel-API-REST-Skeleton.git <project_name>
+cd <project_name>
+php artisan key:generate
 php artisan migrate
 php artisan passport:keys
+php artisan serve
 ```
+Now, it is available on [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
 ## Installed packages
 
