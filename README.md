@@ -14,7 +14,6 @@ php artisan passport:keys
 
 - [Laravel/Passport](https://github.com/laravel/passport)
 
-
 ## License
 
 The Laravel-API-REST-Skeleton is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
