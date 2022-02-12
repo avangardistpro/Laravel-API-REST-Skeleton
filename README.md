@@ -2,18 +2,24 @@
 
 This repository is for basic skeleton installation of the Laravel framework, its packages and other's vendors packages. It means that you can use it as a basis for your custom applications. The target is to reduce the time for developers while installing packages to build required stack for the project.
 
-## Installation processes
-
-```
-git clone https://github.com/avangardistpro/Laravel-API-REST-Skeleton.git
-php artisan migrate
-php artisan passport:keys
-```
 
 ## Installed packages
 
 - [Laravel/Passport](https://github.com/laravel/passport)
 - [Laravel/Breeze](https://github.com/laravel/breeze)
+
+
+## Installation process
+
+```
+git clone https://github.com/avangardistpro/Laravel-API-REST-Skeleton.git <project_name>
+cd <project_name>
+php artisan key:generate
+php artisan migrate
+php artisan passport:keys
+php artisan serve
+```
+Now, your new project available on [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
