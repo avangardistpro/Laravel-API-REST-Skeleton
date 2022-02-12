@@ -9,6 +9,7 @@ This repository is for basic skeleton installation of the Laravel framework, its
 - [Laravel/Breeze](https://github.com/laravel/breeze)
 
 
+
 ## Installation process
 
 ```
