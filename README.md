@@ -14,6 +14,7 @@ This repository is for basic skeleton installation of the Laravel framework, its
 - [Laravel/Telescope](https://github.com/laravel/telescope) - [docs](https://laravel.com/docs/9.x/telescope)
 - [Laravel/Horizon](https://github.com/laravel/horizon) - [docs](https://laravel.com/docs/9.x/horizon)
 - [Laravel/Scout](https://github.com/laravel/scout) ([MeiliSearch](https://www.meilisearch.com/) Engine) - [docs](https://laravel.com/docs/9.x/scout)
+- [Laravel/Socialite](https://github.com/laravel/socialite) - [docs](https://laravel.com/docs/9.x/socialite)
 
 ### Vendor packages
 
