@@ -5,12 +5,17 @@ This repository is for basic skeleton installation of the Laravel framework, its
 
 ## Installed packages
 
+### Laravel packages
+
 - [Laravel/Passport](https://github.com/laravel/passport) - [docs](https://laravel.com/docs/9.x/passport)
 - [Laravel/Breeze](https://github.com/laravel/breeze) - [docs](https://laravel.com/docs/9.x/starter-kits#breeze-and-next)
 - [Laravel/Telescope](https://github.com/laravel/telescope) - [docs](https://laravel.com/docs/9.x/telescope)
 - [Laravel/Horizon](https://github.com/laravel/horizon) - [docs](https://laravel.com/docs/9.x/horizon)
 - [Laravel/Scout](https://github.com/laravel/scout) ([MeiliSearch](https://www.meilisearch.com/) Engine) - [docs](https://laravel.com/docs/9.x/scout)
 
+### Vendor packages
+
+- [L5 Swagger](https://github.com/darkaonline/l5-swagger) - [wiki](https://github.com/DarkaOnLine/L5-Swagger/wiki)
 
 ## Installation process
 
