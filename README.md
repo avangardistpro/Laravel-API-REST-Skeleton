@@ -25,7 +25,11 @@ This repository is for basic skeleton installation of the Laravel framework, its
 
 Cache, queues and sessions work using Redis server.
 
-## Installation process
+## Requirements
+
+- PHP version ^8.0
+
+## Installation process (Linux)
 
 ```
 git clone https://github.com/avangardistpro/Laravel-API-REST-Skeleton.git <project_name>
