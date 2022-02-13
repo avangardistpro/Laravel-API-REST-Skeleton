@@ -37,6 +37,7 @@ git clone https://github.com/avangardistpro/Laravel-API-REST-Skeleton.git <proje
 cd <project_name>
 cp .env.example .env
 
+composer install
 php artisan key:generate
 php artisan migrate
 php artisan passport:keys
